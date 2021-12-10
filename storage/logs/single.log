@@ -1,0 +1,53 @@
+2021-12-09 17:17:20 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-09 17:17:20 - INFO - "GET /static/style.css HTTP/1.1" 200 648
+2021-12-09 17:29:04 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-09 17:29:04 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-09 17:29:04 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-09 17:29:04 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-09 17:29:04 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-09 17:29:04 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-09 17:29:04 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-10 18:33:13 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-10 18:33:13 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-10 18:33:13 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-10 18:33:13 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-10 18:33:13 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-10 18:33:13 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-10 18:33:13 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-10 18:34:10 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-10 18:34:10 - INFO - "GET /static/style.css HTTP/1.1" 304 0
+2021-12-10 18:34:10 - WARNING - "GET /animal HTTP/1.1" 404 1536
+2021-12-10 18:34:10 - WARNING - "GET /animals HTTP/1.1" 404 1536
+2021-12-10 18:37:27 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-10 18:37:27 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-10 18:37:27 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-10 18:37:27 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-10 18:37:27 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-10 18:37:27 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-10 18:37:27 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-10 18:37:27 - INFO - "GET /animals HTTP/1.1" 200 1046
+2021-12-10 18:37:27 - INFO - "GET /animals/1 HTTP/1.1" 200 376
+2021-12-10 18:37:27 - INFO - "GET /animals/2 HTTP/1.1" 200 337
+2021-12-10 18:44:35 - ERROR - InvalidCSRFToken in 0 on line 0
+2021-12-10 18:44:35 - ERROR - "POST /animals HTTP/1.1" 500 968397
+2021-12-10 18:45:09 - ERROR - InvalidCSRFToken in 0 on line 0
+2021-12-10 18:45:09 - ERROR - "POST /animals HTTP/1.1" 500 967929
+2021-12-10 18:48:46 - ERROR - InvalidCSRFToken in 0 on line 0
+2021-12-10 18:48:46 - ERROR - "POST /animals HTTP/1.1" 500 967929
+2021-12-10 18:53:49 - ERROR - InvalidCSRFToken in 0 on line 0
+2021-12-10 18:53:49 - ERROR - "POST /animals HTTP/1.1" 500 968231
+2021-12-10 18:54:52 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-10 18:54:52 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-10 18:54:52 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-10 18:54:52 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-10 18:54:52 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-10 18:54:52 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-10 18:54:52 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-10 18:54:52 - INFO - "POST /animals HTTP/1.1" 200 331
+2021-12-10 18:54:52 - INFO - "GET /animals HTTP/1.1" 200 1379
+2021-12-10 18:54:52 - INFO - "GET /animals HTTP/1.1" 200 1379
+2021-12-10 18:54:52 - INFO - "PUT /animals/4 HTTP/1.1" 200 338
+2021-12-10 18:54:52 - INFO - "GET /animals/4 HTTP/1.1" 200 338
+2021-12-10 18:54:52 - INFO - "GET /animals HTTP/1.1" 200 1384
+2021-12-10 18:54:52 - INFO - "GET /animals HTTP/1.1" 200 1384
+2021-12-10 18:54:52 - INFO - "GET /animals HTTP/1.1" 200 1046
