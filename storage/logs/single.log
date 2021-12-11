@@ -51,3 +51,136 @@
 2021-12-10 18:54:52 - INFO - "GET /animals HTTP/1.1" 200 1384
 2021-12-10 18:54:52 - INFO - "GET /animals HTTP/1.1" 200 1384
 2021-12-10 18:54:52 - INFO - "GET /animals HTTP/1.1" 200 1046
+2021-12-11 23:00:16 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-11 23:00:16 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-11 23:00:16 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-11 23:00:16 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-11 23:00:16 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-11 23:00:16 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-11 23:00:16 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-11 23:00:34 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-11 23:00:34 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-11 23:00:34 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-11 23:00:34 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-11 23:00:34 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-11 23:00:34 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-11 23:00:34 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-11 23:00:34 - INFO - "GET /animals HTTP/1.1" 200 2
+2021-12-11 23:02:36 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-11 23:02:36 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-11 23:02:36 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-11 23:02:36 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-11 23:02:36 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-11 23:02:36 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-11 23:02:36 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-11 23:02:48 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-11 23:02:48 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-11 23:02:48 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-11 23:02:48 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-11 23:02:48 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-11 23:02:48 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-11 23:02:48 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-11 23:02:48 - INFO - "GET /animals HTTP/1.1" 200 2
+2021-12-11 23:02:48 - INFO - "GET /animals HTTP/1.1" 200 2
+2021-12-11 23:03:36 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-11 23:03:36 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-11 23:03:36 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-11 23:03:36 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-11 23:03:36 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-11 23:03:36 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-11 23:03:36 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-11 23:03:45 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-11 23:03:45 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-11 23:03:45 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-11 23:03:45 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-11 23:03:45 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-11 23:03:45 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-11 23:03:45 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-11 23:03:45 - INFO - "GET /animals HTTP/1.1" 200 2
+2021-12-11 23:03:45 - INFO - "GET /animals HTTP/1.1" 200 2
+2021-12-11 23:03:45 - INFO - "GET /animals HTTP/1.1" 200 2
+2021-12-11 23:06:15 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-11 23:06:15 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-11 23:06:15 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-11 23:06:15 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-11 23:06:15 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-11 23:06:15 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-11 23:06:15 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-11 23:06:15 - INFO - "GET /animals HTTP/1.1" 200 2
+2021-12-11 23:06:42 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-11 23:06:42 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-11 23:06:42 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-11 23:06:42 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-11 23:06:42 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-11 23:06:42 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-11 23:06:42 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-11 23:07:13 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-11 23:07:13 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-11 23:07:13 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-11 23:07:13 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-11 23:07:13 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-11 23:07:13 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-11 23:07:13 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-11 23:07:13 - INFO - "GET /animals HTTP/1.1" 200 2
+2021-12-11 23:08:34 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-11 23:08:34 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-11 23:08:34 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-11 23:08:34 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-11 23:08:34 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-11 23:08:34 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-11 23:08:34 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-11 23:08:52 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-11 23:08:52 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-11 23:08:52 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-11 23:08:52 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-11 23:08:52 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-11 23:08:52 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-11 23:08:52 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-11 23:08:52 - INFO - "GET /animals HTTP/1.1" 200 2
+2021-12-11 23:08:52 - INFO - "GET /animals HTTP/1.1" 200 2
+2021-12-11 23:12:06 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-11 23:12:06 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-11 23:12:06 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-11 23:12:06 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-11 23:12:06 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-11 23:12:06 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-11 23:12:06 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-11 23:12:19 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-11 23:12:19 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-11 23:12:19 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-11 23:12:19 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-11 23:12:19 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-11 23:12:19 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-11 23:12:19 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-11 23:12:19 - INFO - "GET /animals HTTP/1.1" 200 2
+2021-12-11 23:15:45 - ERROR - JSONDecodeError in /Users/erichuberman/.pyenv/versions/3.9.4/lib/python3.9/json/decoder.py on line 353
+2021-12-11 23:15:45 - ERROR - "POST /animals HTTP/1.1" 500 1043758
+2021-12-11 23:16:17 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-11 23:16:17 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-11 23:16:17 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-11 23:16:17 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-11 23:16:17 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-11 23:16:17 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-11 23:16:17 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-11 23:16:17 - INFO - "GET /animals HTTP/1.1" 200 260
+2021-12-11 23:16:17 - INFO - "GET /animals HTTP/1.1" 200 260
+2021-12-11 23:16:17 - INFO - "GET /animals/1 HTTP/1.1" 200 260
+2021-12-11 23:16:17 - INFO - "GET /animals/1 HTTP/1.1" 200 260
+2021-12-11 23:16:17 - INFO - "DELETE /animals/1 HTTP/1.1" 200 260
+2021-12-11 23:16:17 - INFO - "GET /animals HTTP/1.1" 200 2
+2021-12-11 23:22:12 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-11 23:22:12 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-11 23:22:12 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-11 23:22:12 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-11 23:22:12 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-11 23:22:12 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-11 23:22:12 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-11 23:22:22 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-11 23:22:22 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-11 23:22:22 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-11 23:22:22 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-11 23:22:22 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-11 23:22:22 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-11 23:22:22 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-11 23:22:22 - INFO - "GET /animals HTTP/1.1" 200 1046
+2021-12-11 23:22:22 - INFO - "GET /animals HTTP/1.1" 200 1046

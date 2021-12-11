@@ -22,26 +22,26 @@ class AnimalController(Controller):
 
     def create(self):
         name = self.request.input("name")
-        scientific_name = self.request.input("scientific name")
+        scientific_name = self.request.input("scientific_name")
         url = self.request.input("url")
         animal_class = self.request.input("class")
         lifespan = self.request.input("lifespan")
         origin = self.request.input("origin")
-        fun_fact = self.request.input("fun fact")
-        animal = Animal.create({"name": name, "scientific name": scientific_name, "url": url, "class": animal_class, "lifespan": lifespan, "origin": origin, "fun fact": fun_fact})
+        fun_fact = self.request.input("fun_fact")
+        animal = Animal.create({"name": name, "scientific_name": scientific_name, "url": url, "class": animal_class, "lifespan": lifespan, "origin": origin, "fun_fact": fun_fact})
         return animal
 
 
     def update(self):
         id = self.request.param("id")
         name = self.request.input("name")
-        scientific_name = self.request.input("scientific name")
+        scientific_name = self.request.input("scientific_name")
         url = self.request.input("url")
         animal_class = self.request.input("class")
         lifespan = self.request.input("lifespan")
         origin = self.request.input("origin")
-        fun_fact = self.request.input("fun fact")
-        Animal.where("id", id).update({"name": name, "scientific name": scientific_name, "url": url, "class": animal_class, "lifespan": lifespan, "origin": origin, "fun fact": fun_fact})
+        fun_fact = self.request.input("fun_fact")
+        Animal.where("id", id).update({"name": name, "scientific_name": scientific_name, "url": url, "class": animal_class, "lifespan": lifespan, "origin": origin, "fun_fact": fun_fact})
         return Animal.where("id", id).get()
 
 
