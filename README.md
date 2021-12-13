@@ -12,9 +12,9 @@
 
 ## Component Tree
 - App
-    - Header
+    - Navbar
     - Main (Exhibits)
-        - Carousel
+       
 
 ## Pages
 - Index (All animals)
